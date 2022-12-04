@@ -1,0 +1,12 @@
+../Src/arducam.c:15:1:arduchip_read_reg	16	static
+../Src/arducam.c:28:1:arduchip_write_reg	16	static
+../Src/arducam.c:41:1:arduchip_burst_read	16	static
+../Src/arducam.c:67:1:arduchip_chip	16	static
+../Src/arducam.c:87:1:arduchip_detect	16	static
+../Src/arducam.c:126:1:arduchip_start_capture	8	static
+../Src/arducam.c:148:1:arduchip_capture_done	16	static
+../Src/arducam.c:161:1:arduchip_fifo_length	16	static
+../Src/arducam.c:179:1:ov5642_detect	16	static
+../Src/arducam.c:201:1:ov5642_configure	8	static
+../Src/arducam.c:245:1:arducam_enter_standby	16	static
+../Src/arducam.c:262:1:arducam_exit_standby	16	static

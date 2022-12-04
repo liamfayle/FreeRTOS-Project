@@ -1,0 +1,10 @@
+../Src/i2c.c:62:6:MX_I2C3_Init	8	static
+../Src/i2c.c:81:6:HAL_I2C_MspInit	48	static
+../Src/i2c.c:117:6:HAL_I2C_MspDeInit	8	static
+../Src/i2c.c:147:1:i2c_read8	32	static
+../Src/i2c.c:165:1:i2c_read16	32	static
+../Src/i2c.c:185:1:i2c_read_frame	16	static
+../Src/i2c.c:198:1:i2c_write8_8	24	static
+../Src/i2c.c:211:1:i2c_write16_8	24	static
+../Src/i2c.c:224:1:i2c_write_frame	16	static
+../Src/i2c.c:235:1:i2c_array16_8	16	static

@@ -1,0 +1,6 @@
+../Src/camera.c:115:15:pjpeg_need_bytes_callback	16	static
+../Src/camera.c:33:6:camera_setup	8	static
+../Src/camera.c:139:11:pjpeg_load_from_file	112	static
+../Src/camera.c:292:1:write_fifo_to_buffer	56	static
+../Src/camera.c:94:6:camera_get_image	16	static
+../Src/camera.c:64:6:camera_initiate_capture	16	static

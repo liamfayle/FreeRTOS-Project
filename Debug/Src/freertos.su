@@ -1,0 +1,13 @@
+../Src/freertos.c:233:6:StartTaskCamera	8	static
+../Src/freertos.c:291:6:StartTaskAlert	16	static
+../Src/freertos.c:113:6:addValues	16	static
+../Src/freertos.c:127:9:checkMotion	0	static
+../Src/freertos.c:138:6:clearSensed	0	static
+../Src/freertos.c:146:6:detectedMessage	8	static
+../Src/freertos.c:156:6:clearLine1	8	static
+../Src/freertos.c:161:6:clearPicture	8	static
+../Src/freertos.c:169:6:clearMessage	8	static
+../Src/freertos.c:210:6:StartTaskGUI	8	static
+../Src/freertos.c:176:6:MX_FREERTOS_Init	120	static
+../Src/freertos.c:249:5:myprintf	24	static
+../Src/freertos.c:262:6:StartTaskMotion	8	static
